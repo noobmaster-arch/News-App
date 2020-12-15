@@ -5,4 +5,3 @@ https://developer.android.com/
 https://stackoverflow.com/questions/12128331/how-to-change-fontfamily-of-textview-in-android
 https://www.youtube.com/watch?v=9oNZAzIhL7s
 https://stackoverflow.com/questions/3496269/how-do-i-put-a-border-around-an-android-textview
-https://www.tutorialspoint.com/android/android_json_parser.htm
