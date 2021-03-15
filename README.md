@@ -1,1 +1,3 @@
-# outlab9-190050054-190050109
+# News App
+
+## A news app in android studio, which pulls news from a given news api, and presents the dynamic data, in a list layout.
